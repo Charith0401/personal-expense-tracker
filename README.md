@@ -1,1 +1,1 @@
-Run the "start.bat" file to run the application
+Run the "start.bat" file to start the application
